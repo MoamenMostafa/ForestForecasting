@@ -1,0 +1,9 @@
+Two projects were created one for the forecasting process , and the other one was for Unit Testing the result calculated for the AVG and Accumlation for the weather
+degrees .
+
+- Forecast Project :
+A Node class was created to specify the generating of degrees to simulate the sensor that reads the temprature degrees .
+A Client class was created  to process the tempratures degrees that is generated in Node class and getting the AVG and ACC .
+
+ - UnitTest Project :
+ The purpose of this was to unit test the result calculated for the AVG and Accumlation for the weather degrees .
